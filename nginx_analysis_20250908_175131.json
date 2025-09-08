@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-09-08T16:51:31Z",
+  "analysis": {
+    "top_ips": [
+      {"ip": "45.76.135.253", "requests": 6},
+      {"ip": "142.93.143.8", "requests": 5},
+      {"ip": "178.128.94.113", "requests": 4},
+      {"ip": "43.224.43.187", "requests": 3},
+      {"ip": "192.168.1.101", "requests": 1}
+    ],
+    "top_paths": [
+      {"path": "/api/v1/users", "requests": 6},
+      {"path": "/api/v1/products", "requests": 5},
+      {"path": "/api/v1/orders", "requests": 3},
+      {"path": "/api/v1/payments", "requests": 2},
+      {"path": "/static/images/logo.png", "requests": 1}
+    ],
+    "top_status_codes": [
+      {"status": "200", "requests": 13},
+      {"status": "500", "requests": 2},
+      {"status": "404", "requests": 2},
+      {"status": "401", "requests": 1},
+      {"status": "304", "requests": 1}
+    ],
+    "top_user_agents": [
+      {"user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36", "requests": 6},
+      {"user_agent": "curl/7.68.0", "requests": 5},
+      {"user_agent": "PostmanRuntime/7.32.2", "requests": 4},
+      {"user_agent": "Googlebot/2.1 (+http://www.google.com/bot.html)", "requests": 3},
+      {"user_agent": "kube-probe/1.18", "requests": 1}
+    ]
+  }
+}

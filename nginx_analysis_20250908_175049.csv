@@ -1,0 +1,21 @@
+Category,Item,Count
+IP Address,45.76.135.253,6
+IP Address,142.93.143.8,5
+IP Address,178.128.94.113,4
+IP Address,43.224.43.187,3
+IP Address,192.168.1.101,1
+Path,/api/v1/users,6
+Path,/api/v1/products,5
+Path,/api/v1/orders,3
+Path,/api/v1/payments,2
+Path,/static/images/logo.png,1
+Status Code,200,13
+Status Code,500,2
+Status Code,404,2
+Status Code,401,1
+Status Code,304,1
+User Agent,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/91.0.4472.124 Safari/537.36,6
+User Agent,curl/7.68.0,5
+User Agent,PostmanRuntime/7.32.2,4
+User Agent,Googlebot/2.1 (+http://www.google.com/bot.html),3
+User Agent,kube-probe/1.18,1
